@@ -1,5 +1,8 @@
 _repo: The-Life-and-Opinions-of-Tristram-Shandy-Gentleman_1079
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sterne, Laurence
@@ -21,6 +24,8 @@ description: "The Life and Opinions of Tristram Shandy, Gentleman (or, more brie
   \ on the problems of language, has constant regard to John Locke's theories in An\
   \ Essay Concerning Human Understanding. Arthur Schopenhauer cited Tristram Shandy\
   \ as one of the greatest novels ever written.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1079#The-Life-and-Opinions-of-Tristram-Shandy-Gentleman
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
